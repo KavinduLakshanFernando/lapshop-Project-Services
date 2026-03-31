@@ -1,0 +1,9 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/KavinduLakshanFernando/lapShop-Project-Service-user.git
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/KavinduLakshanFernando/lapShop-Project-Service-Product.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/KavinduLakshanFernando/lapShop-Project-Service-Order.git
